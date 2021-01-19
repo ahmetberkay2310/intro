@@ -1,0 +1,12 @@
+C:\Users\BERKAY\source\repos\intro\classintroo\obj\Debug\netcoreapp3.1\classintroo.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\intro\classintroo\obj\Debug\netcoreapp3.1\classintroo.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\intro\classintroo\obj\Debug\netcoreapp3.1\classintroo.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\intro\classintroo\bin\Debug\netcoreapp3.1\classintroo.exe
+C:\Users\BERKAY\source\repos\intro\classintroo\bin\Debug\netcoreapp3.1\classintroo.deps.json
+C:\Users\BERKAY\source\repos\intro\classintroo\bin\Debug\netcoreapp3.1\classintroo.runtimeconfig.json
+C:\Users\BERKAY\source\repos\intro\classintroo\bin\Debug\netcoreapp3.1\classintroo.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\intro\classintroo\bin\Debug\netcoreapp3.1\classintroo.dll
+C:\Users\BERKAY\source\repos\intro\classintroo\bin\Debug\netcoreapp3.1\classintroo.pdb
+C:\Users\BERKAY\source\repos\intro\classintroo\obj\Debug\netcoreapp3.1\classintroo.dll
+C:\Users\BERKAY\source\repos\intro\classintroo\obj\Debug\netcoreapp3.1\classintroo.pdb
+C:\Users\BERKAY\source\repos\intro\classintroo\obj\Debug\netcoreapp3.1\classintroo.genruntimeconfig.cache

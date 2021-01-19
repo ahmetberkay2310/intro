@@ -1,0 +1,13 @@
+C:\Users\BERKAY\source\repos\intro\donguler\bin\Debug\netcoreapp3.1\donguler.exe
+C:\Users\BERKAY\source\repos\intro\donguler\bin\Debug\netcoreapp3.1\donguler.deps.json
+C:\Users\BERKAY\source\repos\intro\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.json
+C:\Users\BERKAY\source\repos\intro\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\intro\donguler\bin\Debug\netcoreapp3.1\donguler.dll
+C:\Users\BERKAY\source\repos\intro\donguler\bin\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.csprojAssemblyReference.cache
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.dll
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\BERKAY\source\repos\intro\donguler\obj\Debug\netcoreapp3.1\donguler.genruntimeconfig.cache

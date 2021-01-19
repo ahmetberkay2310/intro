@@ -1,0 +1,13 @@
+C:\Users\BERKAY\source\repos\intro\intro\bin\Debug\netcoreapp3.1\intro.exe
+C:\Users\BERKAY\source\repos\intro\intro\bin\Debug\netcoreapp3.1\intro.deps.json
+C:\Users\BERKAY\source\repos\intro\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.json
+C:\Users\BERKAY\source\repos\intro\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\intro\intro\bin\Debug\netcoreapp3.1\intro.dll
+C:\Users\BERKAY\source\repos\intro\intro\bin\Debug\netcoreapp3.1\intro.pdb
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.csprojAssemblyReference.cache
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.dll
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.pdb
+C:\Users\BERKAY\source\repos\intro\intro\obj\Debug\netcoreapp3.1\intro.genruntimeconfig.cache

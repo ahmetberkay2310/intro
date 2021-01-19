@@ -1,0 +1,12 @@
+C:\Users\BERKAY\source\repos\intro\hesaplama\obj\Debug\netcoreapp3.1\hesaplama.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\intro\hesaplama\obj\Debug\netcoreapp3.1\hesaplama.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\intro\hesaplama\obj\Debug\netcoreapp3.1\hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\intro\hesaplama\bin\Debug\netcoreapp3.1\hesaplama.exe
+C:\Users\BERKAY\source\repos\intro\hesaplama\bin\Debug\netcoreapp3.1\hesaplama.deps.json
+C:\Users\BERKAY\source\repos\intro\hesaplama\bin\Debug\netcoreapp3.1\hesaplama.runtimeconfig.json
+C:\Users\BERKAY\source\repos\intro\hesaplama\bin\Debug\netcoreapp3.1\hesaplama.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\intro\hesaplama\bin\Debug\netcoreapp3.1\hesaplama.dll
+C:\Users\BERKAY\source\repos\intro\hesaplama\bin\Debug\netcoreapp3.1\hesaplama.pdb
+C:\Users\BERKAY\source\repos\intro\hesaplama\obj\Debug\netcoreapp3.1\hesaplama.dll
+C:\Users\BERKAY\source\repos\intro\hesaplama\obj\Debug\netcoreapp3.1\hesaplama.pdb
+C:\Users\BERKAY\source\repos\intro\hesaplama\obj\Debug\netcoreapp3.1\hesaplama.genruntimeconfig.cache
